@@ -1,0 +1,14 @@
+body{padding:0px;margin:0px;}
+*{padding:0px;margin:0px;}
+#h{font-size:20px;font-weight:bold;color:white;padding:5px;text-align:center;}
+#cf{width:100%;min-height:50px;
+background-image:linear-gradient(blue,skyblue);}
+nav{background:teal; text-align:center;padding:15px;}
+nav ul li {display:inline;padding:20px;text-decoration:none;}
+nav ul li a{color:white;font-size:15px;font-family:cursive;font-style:italic;}
+nav ul li:hover{text-shadow:5px 7px red;text-decoration:none;}
+.active{color:red;}
+#h3{text-align:center;background:lightgrey;color:darkblue;margin:0px;}
+#pic{height:490px;;width:100%;}
+#w{font-size:17px;color:black; text-align:justify;}
+footer{text-align:center; background:black; min-height:30px;width:100%;color:white;padding:15px;}
