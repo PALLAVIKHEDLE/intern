@@ -1,0 +1,16 @@
+*{margin:0px;padding:0px;}
+body{margin:0px;padding:0px;}
+.container-fluid{background:lightgrey;}
+#one{background-image:linear-gradient(skyblue,blue);min-height:40px;color:white;}
+#fon{font-size:20px;font-weight:bold;font-family:Times New Roman Georgia;}
+#pic{background-image:url('image/girl.png'),url('image/back.jpg.');background-repeat:no-repeat,no-repeat;
+background-size:40% 40%,91% 80%;padding:98px;margin:0px;padding-bottom:50px;}
+#si{font-size:18px;font-weight:bold;}
+aside{float:left;margin:0px;}
+.fa-chevron-right{float:right;}
+#te{font-size:14px;font-weight:bold;}
+
+@media screen and (min-width: 100px) and (max-width: 700px){
+	.pic{background-image:url("image/girl.png");background-size:cover;
+	
+	}
